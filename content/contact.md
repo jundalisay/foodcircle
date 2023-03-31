@@ -4,11 +4,12 @@ icon: "/images/icons/chat.svg"
 description: "Got any interesting ideas that you'd like to share with us? Want to discuss a potential partnership? Interested in hearing how Food Rescue Philippines works from the inside? We'd love to chat with you!"
 ---
 
-Got any interesting ideas that you'd like to share with us? Want to discuss a potential partnership? Interested in hearing how Food Rescue Philippines works from the inside? We'd love to chat with you!
+Got any interesting ideas that you'd like to share with us? Want to discuss a potential partnership? Interested in hearing how we work from the inside? We'd love to chat with you!
+
 
 ## Email Inquries
 
-Please email **foodrescueph@gmail.com** for any inquries. You can also view each team member's email address over at [Team](/team).
+Please email **juan@pantrypoints.com** for any inquries. You can also view each team member's email address over at [Team](/team).
 
 ## Mailing Address
 
@@ -18,7 +19,7 @@ If you are an event partner and are planning to ship us physical material via Fe
 
 ## Phone
 
-You can reach us at **[09272517520](tel:09272517520)**.
+You can reach us at **[09605424101](tel:09605424101)**.
 
 
 {{< locations >}}

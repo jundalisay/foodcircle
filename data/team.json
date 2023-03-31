@@ -1,16 +1,9 @@
 [
   {
-    "name": "Juan Dalisay",
-    "image": "/images/team/jun.jpg",
-    "school": "De La Salle University",
-    "class": 2001,
-    "jobtitle": "Web Development"
-  },
-  {
-    "name": "Aster Bedico",
-    "image": "/images/team/aster.jpg",
-    "school": "College of Saint Benilde",
-    "class": 2003,
-    "jobtitle": "Coordinator, Laguna"
+    "name": "Mac Florendo",
+    "image": "/images/team/mac.jpg",
+    "school": "Silliman University",
+    "jobtitle": "Founder Food Rescue Philippines"
   }
 ]
+
