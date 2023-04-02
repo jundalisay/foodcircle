@@ -66,6 +66,11 @@ home = ["HTML","RSS"]
   #     name = "Subscribe"
   #     url = "/subscribe"
   #     weight = 7
+  [[menu.main]]
+      name = "Harvest"
+      url = "/harvest/"
+      weight = 5
+
 
   # Footer Menu
       
