@@ -25,3 +25,5 @@ Details |
 Value | 1 point per kilo
 Amount | 40 kilos
 Pickup | Block 1 Lot 5 J Hernandez Street
+
+{{< button url="/progress" txt="Buy" >}}
